@@ -1,2 +1,2 @@
-# amocafe.github.io
+# mecicafe.github.io
 rekomendasi cafe terbaik
